@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222.705" height="286.654" viewBox="0 0 222.705 286.654">
+  <g id="Layer_2" data-name="Layer 2" transform="matrix(0.978, -0.208, 0.208, 0.978, -19.352, 73.419)">
+    <g id="Layer_1" data-name="Layer 1" transform="translate(10.53 -31.65)">
+      <g id="Group">
+        <text id="EURO_" data-name="EURO " transform="translate(15.662 80.906)" fill="#85afca" font-size="68" font-family="Knewave-Regular, Knewave"><tspan x="0" y="0">EURO </tspan></text>
+        <text id="BAGEL_" data-name="BAGEL " transform="translate(1 152.188)" fill="#85afca" font-size="66" font-family="Knewave-Regular, Knewave"><tspan x="0" y="0">BAGEL </tspan></text>
+        <text id="CAFE" transform="translate(11.842 144.404)" fill="#85afca" font-size="71" font-family="Knewave-Regular, Knewave"><tspan x="0" y="83">CAFE</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
